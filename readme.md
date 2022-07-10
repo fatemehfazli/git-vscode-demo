@@ -1,5 +1,3 @@
-
-
 # learning
 
 - second commit
